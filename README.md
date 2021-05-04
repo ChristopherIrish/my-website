@@ -1,5 +1,3 @@
-<!doctype html>
-<h1>My Website</h1>
+# My Website
 
 This is a really awesome website
-</html>
